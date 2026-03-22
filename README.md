@@ -1,2 +1,1 @@
-# React-Patterns
-Some Useful react Patterns
+# Learning React JS
